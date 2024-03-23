@@ -1,4 +1,4 @@
 # Atharva
-firstl repository program 
+first repository program 
 <br>
 author : - Atharva wankhade 
